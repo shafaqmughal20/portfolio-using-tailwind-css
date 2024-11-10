@@ -4,7 +4,7 @@ import { TbMenu2 } from "react-icons/tb";
   const Navbar =() => {
     return (
         <div className='container pt-8'>
-            <div className='flex justify between item center'>
+            <div className='flex justify between items-center'>
                 <div className='text-xl font-medium'>Shafaq </div>
 
                 <ul className='gap-10 lg:gap-16 hidden md:flex'>
